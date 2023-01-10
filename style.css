@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://images.dinamani.com/uploads/user/imagelibrary/2017/6/20/original/olai-chuvadi-preview-03.jpg?w=640&dpr=1.0");
+    
+    
+    }
+    .container{
+        background-color: aqua;
+        border: 1px saddlebrown;
+    }
+    .card-footer {
+        background-color: aqua;
+        text-shadow: 2px solid gainsboro;
+    }
+    
+    .click{
+        background-color: rgb(136, 193, 229);
+        
+    }
+    .heading{
+        text-decoration-line: underline;
+    text-decoration-thickness: 3px;
+    }
+    h3{
+        color: azure;
+    }
+    
+    h4{
+        color: azure;
+    }
+    
+    
+    
